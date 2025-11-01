@@ -1,0 +1,8 @@
+{
+  "<|endofrecipe|>": 50258,
+  "<|pad|>": 50259,
+  "<|startofrecipe|>": 50257,
+  "[INGREDIENTS]": 50261,
+  "[STEPS]": 50262,
+  "[TITLE]": 50260
+}
