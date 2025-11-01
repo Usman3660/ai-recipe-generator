@@ -26,7 +26,7 @@ You can run this application on your local machine by following these steps:
 
 **1. Clone the Repository:**
 ```bash
-git clone [https://github.com/](https://github.com/)[YOUR-USERNAME]/ai-recipe-generator.git
+git clone [https://github.com/Usman3660/ai-recipe-generator.git][Usman3660]/ai-recipe-generator.git
 cd ai-recipe-generator
 ```
 
