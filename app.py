@@ -4,7 +4,7 @@ from transformers import pipeline, GPT2LMHeadModel, GPT2Tokenizer
 
 # --- CONFIGURATION ---
 # THIS IS THE ONLY CHANGE: Point to your local folder
-MODEL_PATH = "./my_model_files" 
+MODEL_PATH = "Usman366/gpt2-recipe-generator" 
 
 # Define the special tokens
 SPECIAL_TOKENS = {
